@@ -1,0 +1,7 @@
+{
+  "name": "TripSplit",
+  "description": "An application to manage and split expenses for trips with friends. It allows adding trips, friends, and expenses, calculates who owes whom, and provides an option to share a summary of the costs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
